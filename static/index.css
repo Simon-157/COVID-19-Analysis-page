@@ -1,0 +1,20 @@
+
+body{
+    background-color:#1A1A1D ;
+    color: cadetblue;
+}
+
+
+.row{
+    background-color: #05386B; 
+    color: aqua;
+}
+
+.col-4{
+    background-color:#1F2833;
+}
+
+.table-dark{
+    background-color:#2A1B3D;
+    color: darkslategray;
+}
